@@ -1,14 +1,10 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# Photo_Upload
 
+## サイト概要
+撮影した写真を投稿、閲覧するサイト
 
-Hi there! Welcome to AWS Cloud9!
+### サイトテーマ
+写真にコメントをして写真の思い出祖シェアをする
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+### チャレンジ要素一覧のURL
+https://docs.google.com/spreadsheets/d/1ZmxJyjVyVxdayl63Rsvr0oNIL06WDSBh/edit?usp=sharing&ouid=105589228589459541989&rtpof=true&sd=true
